@@ -30,3 +30,16 @@
   color: #fff;
   border-bottom: 2px solid #009de0;
 }
+
+.nav-item-right {
+  margin-left: auto;
+}
+
+.auth-items {
+  display: flex;
+  justify-content: space-between;
+}
+
+.auth-items a {
+  margin-right: 10px;
+}
